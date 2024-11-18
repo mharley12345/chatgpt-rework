@@ -1,0 +1,5 @@
+#root {
+    background-color: rgb(92, 94, 97);
+    height: 900px;
+    overscroll-behavior: contain;
+}
